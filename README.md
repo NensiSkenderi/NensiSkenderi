@@ -8,10 +8,12 @@
 
 <p align="center">
   <em>
-    I am a Java Software Developer / JavaFX Desktop Developer, graduated from <a href="https://www.fshn.edu.al/"> <b>University of Tirana, Faculty of Natural Sciences</b></a>. <br>
+    I am a Java Software Developer / JavaFX Desktop Developer, graduated from <a href="https://www.fshn.edu.al/"> <b>University of Tirana, Faculty of Natural Sciences</b></a>. 
   </em> 
-  <br>
 </p>
+
+
+![NensiSkenderi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NensiSkenderi&show_icons=true&theme=dark)
 
 - 🔭 I’m currently working as a backend developer using Agile methodologies
 - 🌱 I’m currently learning Kotlin
@@ -21,12 +23,8 @@
 - Ahh, I also like to cook :bowl_with_spoon: and travel :earth_africa:
 <br>
 
-  <p align="center">
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NensiSkenderi&show_icons=true&locale=en&layout=center" alt="Nensi Skenderi" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NensiSkenderi&show_icons=true&locale=en&layout=center" alt="Nensi Skenderi" /></div>
 
-![NensiSkenderi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NensiSkenderi&show_icons=true&theme=dark)
-
-<br><br><br>
 
 ### Languages 🛠
 
