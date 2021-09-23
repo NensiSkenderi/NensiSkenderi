@@ -52,11 +52,12 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-000000.svg?style=flat-square&logo=maven-idea&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=flat-square&logo=xampp&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white)
-![GitKraken](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-000000.svg?style=flat-square&logo=gitkraken-idea&logoColor=white)
 
 #### Workflow Platforms and Other 🛠 
 
@@ -64,7 +65,7 @@
 ![Nexus](https://img.shields.io/badge/Nexus-007ACC?style=flat-square&logo=Nexus&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-FF6C37?style=flat-square&logo=Confluence&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
