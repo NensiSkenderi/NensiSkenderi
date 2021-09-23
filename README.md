@@ -12,8 +12,9 @@
   </em> 
 </p>
 
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NensiSkenderi&show_icons=true&theme=dark" alt="NensiSkenderi's GitHub stats" /></div>
+<br>
 
-![NensiSkenderi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NensiSkenderi&show_icons=true&theme=dark)
 
 - 🔭 I’m currently working as a backend developer using Agile methodologies
 - 🌱 I’m currently learning Kotlin
