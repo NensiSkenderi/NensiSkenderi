@@ -8,8 +8,9 @@
 
 <p align="center">
   <em>
-    I am a Java Software Developer / JavaFX Desktop Developer, graduated from <a href="https://www.fshn.edu.al/"> <b>University of Tirana, Faculty of Natural Sciences</b></a>. 
-  </em> 
+    So this is me, a Software Developer / JavaFX Desktop Developer, graduated from <a href="https://www.fshn.edu.al/"> <b>University of Tirana, Faculty of Natural Sciences</b></a>. Also, I am a Certified Java Programmer with a demonstrated history of working in the information technology and services industry. Skilled in Java, JavaFX, Kotlin, Spring Boot, REST / SOAP, Hibernate, JPA and more.
+  </em>
+   
 </p>
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NensiSkenderi&show_icons=true&theme=dark" alt="NensiSkenderi's GitHub stats" /></div>
