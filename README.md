@@ -28,7 +28,7 @@
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NensiSkenderi&show_icons=true&locale=en&layout=center" alt="Nensi Skenderi" /></div>
 
 
-### Languages 🛠
+### Languages and Frameworks 🛠
 
 ![Java](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-107C10?&style=flat-squaree&logo=javafx&logoColor=white)
@@ -57,7 +57,7 @@
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-000000.svg?style=flat-square&logo=gitkraken-idea&logoColor=white)
+![SceneBuilder](https://img.shields.io/badge/SceneBuilder-000000.svg?style=flat-square&logo=scenebuilder-idea&logoColor=white)
 
 #### Workflow Platforms and Other 🛠 
 
