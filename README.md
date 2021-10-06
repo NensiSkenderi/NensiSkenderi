@@ -30,15 +30,16 @@
 
 ### Languages and Frameworks 🛠
 
-![Java](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0095D5?&style=flat-square&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-107C10?&style=flat-squaree&logo=javafx&logoColor=white)
-![Kotlin](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=kotlin&logoColor=ffffff)
+![Kotlin](http://img.shields.io/badge/-Kotlin-5B4638?style=flat-square&logo=kotlin&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-181717?style=flat-square&logo=hibernate)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Rest](https://img.shields.io/badge/Rest-107C10?style=flat-square&logo=rest)
+![Soap](https://img.shields.io/badge/-Soap-%23F05032?style=flat-square&logo=soap&logoColor=%23ffffff)
 
 #### Databases 🛠 
 
@@ -61,6 +62,7 @@
 
 #### Workflow Platforms and Other 🛠 
 
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-007ACC?style=flat-square&logo=Nexus&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
