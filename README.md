@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> I'm Nensi Skenderi</h1>
+<h1 align="center">Hi there, I'm Nensi Skenderi</h1>
 
 <p align="center">
    <img alt="Version" src="https://img.shields.io/badge/version-23.09.2021-informational">
