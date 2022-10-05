@@ -25,8 +25,6 @@
 - Ahh, I also like to cook :bowl_with_spoon: and travel :earth_africa:
 <br>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NensiSkenderi&show_icons=true&locale=en&layout=center" alt="Nensi Skenderi" /></div>
-
 
 ### Languages and Frameworks 🛠
 
