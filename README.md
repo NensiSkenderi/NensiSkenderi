@@ -13,10 +13,9 @@
    
 </p>
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NensiSkenderi&show_icons=true&theme=dark" alt="NensiSkenderi's GitHub stats" /></div>
-<br>
-
-
+<b> Upwork Profile <a href="https://www.upwork.com/freelancers/~013611a655a17cd473"> https://www.upwork.com/freelancers/~013611a655a17cd473 </b> <br>
+<b> Linkedin Profile <a href="https://www.linkedin.com/in/nensiskenderi/"> https://www.linkedin.com/in/nensiskenderi/ </b>
+   
 - 🔭 I’m currently working as a backend developer using Agile methodologies
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about anything related to coding and I will be happy to answer
@@ -69,6 +68,8 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NensiSkenderi&show_icons=true&theme=dark" alt="NensiSkenderi's GitHub stats" /></div>
 
 <h3 align="center">:handshake: Connect with me :handshake:</h3>
 <p align="center">
