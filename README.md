@@ -8,7 +8,7 @@
 
 <p align="center">
   <em>
-    So this is me, a Software Developer / JavaFX Desktop Developer, graduated from <a href="https://www.fshn.edu.al/"> <b>University of Tirana, Faculty of Natural Sciences</b></a>. Also, I am a Certified Java Programmer with a demonstrated history of working in the information technology and services industry. Skilled in Java, JavaFX, Kotlin, Spring Boot, REST / SOAP, Hibernate, JPA and more.
+    So this is me, a Software Developer / JavaFX Desktop Developer, graduated from <a href="https://www.fshn.edu.al/"> <b>University of Tirana, Faculty of Natural Sciences</b></a>. Also, I am a Certified Java Programmer with a demonstrated history of working in the information technology and services industry. Skilled in Java, Kotlin, Spring Boot, REST / SOAP, Hibernate, JPA, JavaFX and more.
   </em>
    
 </p>
@@ -16,7 +16,7 @@
 <b> Upwork Profile <a href="https://www.upwork.com/freelancers/~013611a655a17cd473"> https://www.upwork.com/freelancers/~013611a655a17cd473 </b> <br>
 <b> Linkedin Profile <a href="https://www.linkedin.com/in/nensiskenderi/"> https://www.linkedin.com/in/nensiskenderi/ </b>
    
-- 🔭 I’m currently working as a backend developer using Agile methodologies
+- 🔭 I’m currently working as a backend developer using Java, Spring Boot, NiFi, Virtuoso, Sparql, Shacl, Docker
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about anything related to coding and I will be happy to answer
 - ⚡ On my free time I work with JavaFX to build desktop applications with great UI / UX. 
