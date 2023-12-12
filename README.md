@@ -21,7 +21,7 @@
 - 💬 Ask me about anything related to coding and I will be happy to answer
 - ⚡ On my free time I work with JavaFX to build desktop applications with great UI / UX. 
 - :ping_pong: Fun fact: I am a professional Table Tennis player
-- Ahh, I also like to cook and travel.
+- Ahh, I also like to cook and travel
 <br>
 
 
