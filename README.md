@@ -21,7 +21,7 @@
 - 💬 Ask me about anything related to coding and I will be happy to answer
 - ⚡ On my free time I work with JavaFX to build desktop applications with great UI / UX. 
 - :ping_pong: Fun fact: I am a professional Table Tennis player
-- Ahh, I also like to cook :bowl_with_spoon: and travel :earth_africa:
+- Ahh, I also like to cook and travel.
 <br>
 
 
@@ -71,7 +71,7 @@
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NensiSkenderi&show_icons=true&theme=dark" alt="NensiSkenderi's GitHub stats" /></div>
 
-<h3 align="center">:handshake: Connect with me :handshake:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/nensi-skenderi-368326160/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:nensiskenderi15@gmail.com?subject=Hello%20Nensi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
